@@ -1,7 +1,7 @@
 # n-queens-problem-Standard-BT-BT_w_FC-Iterative-Repair
 
 ## Notes
-I'm the creator of this repo. This project is finished in a Robot Motion Planning course in Georgia Tech. All the codes were written by me, and I own the complete copyright.
+I'm the creator of this repo. This project is finished in a Robot Motion Planning course in Georgia Tech. All the codes were written by me, and I have the complete copyright. 
 
 ## Environment
 Python 3.6
