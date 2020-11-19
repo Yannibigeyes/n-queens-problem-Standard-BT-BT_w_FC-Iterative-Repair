@@ -18,18 +18,17 @@ Backtrack Search
 
 Backtracj Search with Forward Checking
 
-Iterative Repair (Min-Conflict Heuristic)
+Iterative Repair (Min-Conflict Heuristic) (With reference to https://gist.github.com/vedantk/747203)
 
+## Comparison:
+![alt text](https://github.com/Yannibigeyes/n-queens-problem-Standard-BT-BT_w_FC-Iterative-Repair/blob/main/comparison.png)
 
-
-
-Backtrack Search flow chart
+## Backtrack Search flow chart
 ![alt text](https://github.com/Yannibigeyes/n-queens-problem-Standard-BT-BT_w_FC-Iterative-Repair/blob/main/BT-FC.png)
 
 
-Forward Checking flow chart
+## Forward Checking flow chart
 ![alt text](https://github.com/Yannibigeyes/n-queens-problem-Standard-BT-BT_w_FC-Iterative-Repair/blob/main/Select-Value-FC.png)
 
 
-Comparison:
-![alt text](https://github.com/Yannibigeyes/n-queens-problem-Standard-BT-BT_w_FC-Iterative-Repair/blob/main/comparison.png)
+
