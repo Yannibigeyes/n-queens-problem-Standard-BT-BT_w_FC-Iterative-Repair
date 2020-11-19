@@ -30,4 +30,4 @@ Forward Checking flow chart
 
 
 Comparison:
-![alt text](https://github.com/Yannibigeyes/n-queens-problem-Standard-BT-BT_w_FC-Iterative-Repair/blob/main/Comparison.png)
+![alt text](https://github.com/Yannibigeyes/n-queens-problem-Standard-BT-BT_w_FC-Iterative-Repair/blob/main/comparison.png)
