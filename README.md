@@ -6,10 +6,7 @@ I'm the creator of this repo. This project is finished in a Robot Motion Plannin
 ## Environment
 Python 3.6
 
-## Getting started
-Run main.py and it would automatically run RRT model to explore paths to reach out the goal and then apply BFS (visited-list) to output the shortest path. 
-
-## Probelm
+## Description
 This project aims to solve the n-queues problems with four different method:
 
 Standard,
